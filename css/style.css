@@ -1,0 +1,41 @@
+/*.bg-dark{background-color:darkgreen !important;}*/
+.bgcolor{background-color: #232953;}
+.navbar-brand{color: #D89ABC;}
+.nav-link:hover{color: #9572B1 !important;}
+.nav-link{color: #D89ABC !important;}
+body{font-family: 'Philosopher', sans-serif; background-color: #000526;
+}
+.button{color: #D89ABC;}
+.buttoncolor{background-color: #D89ABC; text-decoration-color: #232953 !important; }
+.buttoncolored{background-color: #9572B1;}
+.button:hover{color: #9572B1;}
+.carousel-inner{height: 80vh;}
+.carousel-item img{width: 100%;}
+.marcard{margin: 3rem;}
+.morado{color: #9572B1;}
+.rosa{color: #D89ABC;}
+.magenta{color: #AF589D;}
+.bgblue{background-color: rgba(35, 41, 83, 0.5);}
+.jumbo {padding: 10% 20%;}
+.button-jumbo:hover{color: cornflowerblue;}
+.prod{padding: 10%; }
+.fa-brands{color: white;}
+.caracteristicas{width: 100%; height: 100%;}
+
+
+
+
+
+
+
+
+
+
+
+
+/*// `sm` applies to x-small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {.carousel-item img{height: 100%;width: auto;} {margin: 0;} {.fa-brands{padding: 2%;} }}
+
+/*// `lg` applies to medium devices (tablets, less than 992px)*/
+/*@media (max-width: 991.98px) { .carousel-item img{width: auto;}.card {padding: 1rem !important;}}*/
+    
